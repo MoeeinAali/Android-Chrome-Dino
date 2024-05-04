@@ -2,9 +2,10 @@
 
 An Android version of the classic Chrome Dino game written in Kotlin and XML. This project aims to replicate the simple yet addictive gameplay of the original Chrome Dino game, allowing users to enjoy the experience on their Android devices.
 
-<div style="text-align:center;">
-    <img src="Animation.gif" alt="App Screenshot" width="500"/>
-</div>
+<p align="center">
+  <img src="Animation.gif" alt="App Screenshot" width="450"/>
+</p>
+
 
 ## Features
 
